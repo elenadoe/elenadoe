@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elenadoe
-- 👀 I’m interested in the application of machine learning on biomarkers of neurodegenerative diseases to predict and inform disease progression.
+- 👀 I’m interested in the application of machine learning to biomarkers of neurodegenerative diseases to predict and inform disease progression.
 - 📫 How to reach me elena.doering@uk-koeln.de
 
 <!---
